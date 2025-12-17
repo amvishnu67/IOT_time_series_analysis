@@ -11,5 +11,4 @@ Thumbs.db
 
 # Data (optional — keep your data clean)
 data/
-*.csv
-*.parquet
+
