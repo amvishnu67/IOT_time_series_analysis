@@ -9,9 +9,6 @@ venv/
 .DS_Store
 Thumbs.db
 
-# Data (optional — keep your data clean)
-data/
-<<<<<<< HEAD
-
-=======
->>>>>>> b8cbd34b991437bb614605dcea55ad885d2f40b9
+# Data (optional: ignore large raw dumps, keep curated samples)
+data/raw/*
+!data/raw/.gitkeep
